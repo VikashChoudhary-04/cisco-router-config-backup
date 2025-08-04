@@ -1,6 +1,6 @@
 # On Router0
 
-copy ruuning-config:tftp
+copy ruuning-config tftp:
 
 # Prompts:
 # Address or name of remote host: 10.0.0.2
