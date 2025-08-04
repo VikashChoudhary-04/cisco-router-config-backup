@@ -1,0 +1,11 @@
+# On Router1
+interface g0/0
+ip address 10.0.0.3 255.255.255.0
+no shutdown
+exit
+
+copy running-config tftp:
+
+# Prompts:
+# Address or name of remote host: 10.0.0.2
+# Source filename: Router0-config
