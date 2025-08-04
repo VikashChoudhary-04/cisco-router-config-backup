@@ -1,0 +1,11 @@
+# On Router0
+
+copy ruuning-config:tftp
+
+# Prompts:
+# Address or name of remote host: 10.0.0.2
+# Destination filename: Router0-config
+
+# Output:
+# Writing startup-config...
+# [OK]
