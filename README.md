@@ -25,8 +25,8 @@ This is a step-by-step project that shows how to:
 | `router0_initial_config.txt` | Config commands for Router0            |
 | `backup_to_tftp.txt`         | Steps to back up config to TFTP server |
 | `restore_to_router1.txt`     | Steps to restore config on Router1     |
-| `network_topology.png`       | (Optional) Network diagram image       |
-| `.pkt` file                  | (Optional) Packet Tracer file          |
+| `config-backup.png`          | Network diagram image                  |
+| `.pkt` file                  | Packet Tracer file                     |
 
 ---
 
